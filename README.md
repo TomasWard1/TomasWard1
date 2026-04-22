@@ -9,7 +9,7 @@
 > We are living in the best moment in tech history and I'm riding the wave all the way.
 
 Founder & Builder for as long as I can remember.
-Currently building **[heylimbo.com](https://heylimbo.com)**, your second brain via Telegram.
+Currently building **[heylimbo.com](https://heylimbo.com)**, your second brain via WhatsApp.
 
 📍 Buenos Aires → SF
 
